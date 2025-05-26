@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>VOC</folder>
+  <filename>161.PNG</filename>
+  <source>
+    <database>roboflow.ai</database>
+  </source>
+  <size>
+    <width>242</width>
+    <height>150</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>
